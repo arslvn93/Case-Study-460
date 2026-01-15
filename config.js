@@ -113,7 +113,7 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Competitive Market Strategy Session—discover the exact system we use to help buyers win in Ottawa's toughest neighborhoods without overpaying or losing to bidding wars",
+        "headline": "Book Your Competitive Market Strategy Session: Discover the exact system we use to help buyers win in Ottawa's toughest neighborhoods without overpaying or losing to bidding wars",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
