@@ -72,9 +72,6 @@ const config = {
         "Pattern recognition from past offers—we'd learned exactly what price points and terms were winning in their target neighborhoods, so when it was time to strike, we knew precisely how to position them",
         "Emotional intelligence through setbacks—after viewing 20+ homes and losing three offers, we maintained their confidence by showing them the data: they weren't far off, just waiting for the right moment"
       ],
-      "testimonial": {
-        "quote": "\"While we don't have their formal testimonial yet, the transformation speaks volumes. This couple went from defeated after three lost bidding wars to confidently closing on their first home—a rare character bungalow in exactly the neighborhood they wanted. They're now settling into a space with the original charm they craved, preparing a nursery for their first child, and living closer to the family support they need. The persistence paid off, and they proved that staying in the game with the right strategy turns losses into wins.\"<br><span>— Satisfied Client</span>"
-      },
       "listItems": []
     },
     {
