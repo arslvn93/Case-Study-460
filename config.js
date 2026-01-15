@@ -1,16 +1,5 @@
-// =================================================================================================
-// PAGE CONFIGURATION OBJECT
-// This file defines all the dynamic content for the case study page.
-// The `renderer.js` file reads this object to build the HTML.
-// To change text, images, or other content, edit the values in this file.
-// =_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_=_
 const config = {
   "globals": {
-    "companyName": "Nicholas Crouch",
-    "mainCTAButtonText": "Book A Discovery Call",
-    "mainCTAButtonURL": "#contact",
-    "primaryColor": "#e3c379",
-    "accentColor": "#d9c6a2",
     "agents": [
       {
         "name": "Nick",
@@ -26,7 +15,13 @@ const config = {
           }
         ]
       }
-    ]
+    ],
+    "companyName": "Nicholas Crouch",
+    "mainCTAButtonText": "Book A Discovery Call",
+    "mainCTAButtonURL": "https://calendly.com/advantagebrokers/buyerstrategycall",
+    "primaryColor": "#e3c379",
+    "accentColor": "#d9c6a2",
+    "facebookPixelId": ""
   },
   "header": {
     "tag": "CASE STUDY",
@@ -64,7 +59,8 @@ const config = {
         "They were searching for something incredibly specific in an impossibly competitive segment: unrenovated older bungalows with original charm in established areas—properties that spark feeding frenzies the moment they hit the market",
         "Every loss felt like they were falling further behind, watching their dream slip away while other buyers kept outbidding them",
         "The fear was visceral: they were convinced they'd keep losing, that they'd never move fast enough or offer high enough to actually win"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -78,7 +74,8 @@ const config = {
       ],
       "testimonial": {
         "quote": "\"While we don't have their formal testimonial yet, the transformation speaks volumes. This couple went from defeated after three lost bidding wars to confidently closing on their first home—a rare character bungalow in exactly the neighborhood they wanted. They're now settling into a space with the original charm they craved, preparing a nursery for their first child, and living closer to the family support they need. The persistence paid off, and they proved that staying in the game with the right strategy turns losses into wins.\"<br><span>— Satisfied Client</span>"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -88,7 +85,8 @@ const config = {
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765903405543-GetMedia (1).jpeg"
-      }
+      },
+      "listItems": []
     },
     {
       "type": "standard",
@@ -101,7 +99,8 @@ const config = {
         "<strong>PURCHASED AT 100% OF ASKING PRICE</strong>",
         "<strong>WON WITHOUT A BIDDING WAR</strong> (after losing 3 previous competitions)",
         "<strong>SEARCHED 20+ HOMES</strong> over multiple months before finding the perfect match"
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "standard",
@@ -110,7 +109,8 @@ const config = {
         "Speed wins wars—even in slower markets, the homes everyone wants move fast. Having your team and inspectors ready to mobilize within 72 hours isn't excessive, it's essential if you're serious about securing high-demand properties.",
         "Losing offers isn't failure, it's data—if you're consistently close in bidding wars, you're not doing something wrong. You're building intelligence about what wins, and your breakthrough is closer than you think.",
         "Trust the process through rejection—after 20+ viewings and 3 losses, quitting feels logical. But the buyers who win are the ones who stay ready, stay strategic, and strike decisively when their perfect property appears."
-      ]
+      ],
+      "listItems": []
     },
     {
       "type": "ctaBanner",
@@ -122,24 +122,24 @@ const config = {
     }
   ],
   "footer": {
+    "privacyPolicy": {
+      "text": "Privacy Policy",
+      "href": "https://onereal.ca/pages/privacy-policy"
+    },
     "logo": {
       "src": "https://app.salesgenius.co/api/user-images/128b0146-47e4-45d6-851a-c24a311aebab?v=3cedb1cc0ec5266e82c958210c3477335c03b6d82eccc39b9dd46ef0dfe6b13c"
+    },
+    "secondaryLogo": {
+      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
     },
     "brokerageLabel": "Brokerage:",
     "brokerageName": "Real Broker LTD",
     "brokerageAddress": "5-2000 Thurston Drive Ottawa, ON K1G 4K7",
-    "secondaryLogo": {
-      "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
-    },
-    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary.",
-    "privacyPolicy": {
-      "text": "Privacy Policy",
-      "href": "https://onereal.ca/pages/privacy-policy"
-    }
-  }
+    "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
+  },
+  "githubRepo": "https://github.com/arslvn93/Case-Study-460"
 };
 
-// Export for Node.js environment (if applicable) or set for browser
 if (typeof module !== 'undefined' && module.exports) {
   module.exports = config;
 } else if (typeof window !== 'undefined') {
