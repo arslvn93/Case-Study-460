@@ -125,9 +125,9 @@ const config = {
     "secondaryLogo": {
       "src": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png"
     },
-    "brokerageLabel": "Brokerage:",
-    "brokerageName": "Real Broker LTD",
-    "brokerageAddress": "5-2000 Thurston Drive Ottawa, ON K1G 4K7",
+    "brokerageLabel": "",
+    "brokerageName": "Real Broker Ontario LTD",
+    "brokerageAddress": "1 Ridea Street, 7th Floor, Ottawa, ON, K1N8S7",
     "disclaimerText": "All testimonials on this page are from real clients. Their experiences do not guarantee similar results.<br>Individual results may vary based on location, market conditions, motivation, as well as other unforeseen factors. Your results may vary."
   },
   "githubRepo": "https://github.com/arslvn93/Case-Study-460"
