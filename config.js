@@ -55,10 +55,10 @@ const config = {
       "type": "standard",
       "title": "The Challenge",
       "paragraphs": [
-        "They'd already lost three homes in brutal multiple-offer situations, each rejection chipping away at their confidence and making them wonder if homeownership was even possible",
-        "They were searching for something incredibly specific in an impossibly competitive segment: unrenovated older bungalows with original charm in established areas, properties that spark feeding frenzies the moment they hit the market",
-        "Every loss felt like they were falling further behind, watching their dream slip away while other buyers kept outbidding them",
-        "The fear was visceral: they were convinced they'd keep losing, that they'd never move fast enough or offer high enough to actually win"
+        "They'd already lost three homes in multiple-offer situations, each rejection chipping away at their confidence and making them wonder if homeownership was even possible.",
+        "They were searching for something incredibly specific in a competitive market segment: an un-renovated bungalow with original charm in a mature neighbourhood. The type of home that sparks feeding frenzies the moment they hit the market.",
+        "Every loss felt like they were falling further behind, watching their dream slip away while other buyers kept outbidding them.",
+        "The fear was real: they were convinced they'd keep losing, that they'd never move fast enough or offer high enough to actually win. "
       ],
       "listItems": []
     },
@@ -66,11 +66,11 @@ const config = {
       "type": "standard",
       "title": "The Strategy",
       "paragraphs": [
-        "Market surveillance on steroids - we monitored new listings the moment they dropped, giving us a critical first-mover advantage in a market where hours matter",
-        "Inspection readiness protocol, we had trusted inspectors on standby ready to view properties within 72 hours, regardless of whether competing offers existed, eliminating the usual delays that cost buyers their dream homes",
-        "Speed as strategy - when 22 Pellan Crescent hit the market with everything they wanted (original 1960s charm, perfect layout, generous space), we acted same-day, not next-week",
-        "Pattern recognition from past offers, we'd learned exactly what price points and terms were winning in their target neighborhoods, so when it was time to strike, we knew precisely how to position them",
-        "Emotional intelligence through setbacks - after viewing 20+ homes and losing three offers, we maintained their confidence by showing them the data: they weren't far off, just waiting for the right moment"
+        "Market surveillance on steroids - we monitored new listings the moment they dropped, giving us a critical first-mover advantage in a market where hours matter.",
+        "Inspection readiness protocol, we had trusted inspectors on standby ready to view properties within 72 hours, regardless of whether competing offers existed, eliminating the usual delays that cost buyers their dream homes.",
+        "Speed as strategy - when the property they eventually purchased hit the market, we acted same-day, not next-week. ",
+        "Pattern recognition from past offers, we'd learned exactly what price points and terms were winning in their target neighborhoods, so when it was time to strike, we knew precisely how to position them.",
+        "Emotional intelligence through setbacks - after viewing 20+ homes and losing three offers, we maintained their confidence by showing them the data: they weren't far off, just waiting for the right moment."
       ],
       "listItems": []
     },
