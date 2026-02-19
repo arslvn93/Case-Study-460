@@ -109,8 +109,8 @@ const config = {
       "type": "ctaBanner",
       "ctaBannerContent": {
         "subhead": "Trusted By Hundreds Of Buyers & Sellers",
-        "headline": "Book Your Strategy Session and discover the exact system we use to help buyers win in Ottawa's toughest neighborhoods.",
-        "smallText": "Book A Discovery Call Now ➡️"
+        "headline": "Book Your Strategy Session and discover the exact system we use to help buyers win in Ottawa's most competitive neighborhoods.",
+        "smallText": "Book A Discovery Call Now ⬇️"
       }
     }
   ],
