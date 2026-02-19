@@ -101,15 +101,15 @@ const config = {
       "paragraphs": [
         "Speed wins - even during slower markets. Because the homes everyone wants always move fast, regardless of the market. Having your team and inspectors ready to mobilize within 72 hours isn't excessive; <strong> it's essential </strong> if you're serious about securing high-demand properties.",
         "Losing offers isn't failure, it's data. If you're consistently close in bidding wars, you're not doing something wrong. You're building intelligence about what wins, and </strong> your breakthrough is closer than you think </strong>.",
-        "Trust the process event through rejection. After 20+ viewings and 3 losses, quitting felt logical. But our clients won because they were ready and strategic when the perfect propert appeared."
+        "Trust the process event through rejection. After 20+ viewings and 3 losses, quitting felt logical. But our clients won because they were ready and strategic when the perfect property appeared."
       ],
       "listItems": []
     },
     {
       "type": "ctaBanner",
       "ctaBannerContent": {
-        "subhead": "Trusted By Hundreds Of Home Buyers & Sellers",
-        "headline": "Book Your Competitive Market Strategy Session - discover the exact system we use to help buyers win in Ottawa's toughest neighborhoods without overpaying or losing to bidding wars",
+        "subhead": "Trusted By Hundreds Of Buyers & Sellers",
+        "headline": "Book Your Strategy Session and discover the exact system we use to help buyers win in Ottawa's toughest neighborhoods.",
         "smallText": "Book A Discovery Call Now ➡️"
       }
     }
