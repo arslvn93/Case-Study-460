@@ -41,12 +41,12 @@ const config = {
       ]
     },
     "sidebar": {
-      "title": "About {{companyName}}",
+      "title": "About Advantage Brokers",
       "image": {
         "src": "https://app.salesgenius.co/api/user-images/128b0146-47e4-45d6-851a-c24a311aebab?v=3cedb1cc0ec5266e82c958210c3477335c03b6d82eccc39b9dd46ef0dfe6b13c"
       },
       "paragraphs": [
-        "At {{companyName}} we provide professional real estate services with integrity, expertise, and dedication to our clients' success. Our experienced team combines market knowledge with personalized service to help you achieve your real estate goals. Whether you're buying, selling, or investing, we're here to guide you through every step of the process with transparency and results-driven strategies."
+        "At Advantage Brokers Real Estate, we provide professional real estate services combined with integrity, expertise and dedication to our clients. Our experienced team combines decades of experience and market knowledge with personalized service to help our clients achieve their goals. Whether you’re buying or selling, we’re here to guide you every step of the way with results-driven strategies"
       ]
     }
   },
