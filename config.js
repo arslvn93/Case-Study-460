@@ -36,8 +36,8 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a young couple navigating one of Ottawa's toughest markets: hunting for a character-filled older bungalow in mature neighborhoods where everyone wants what they want. After losing three consecutive bidding wars, they were exhausted, discouraged, and questioning whether they'd ever find their first home. But they were about to discover that persistence - paired with the right strategy, changes everything.",
-        "Through professional service and market expertise, we delivered exceptional results for our client. Secured their dream 4-bedroom character bungalow at asking price ($989,000) - no overpaying, no bidding war drama Won in one of Ottawa's most competitive segments where older homes in mature neighborhoods typically spark multiple offers and escalate well above asking Closed in just 50 days, giving them time to prepare for their new chapter Landed in their ideal neighborhood, closer to family, perfect timing as they're now expecting their first child <strong>PURCHASED AT 100% OF ASKING PRICE</strong> <strong>WON WITHOUT A BIDDING WAR</strong> (after losing 3 previous competitions) <strong>SEARCHED 20+ HOMES</strong> over multiple months before finding the perfect match"
+        "Meet a young couple navigating one of Ottawa's toughest market segments, hunting for a character-filled bungalow in mature neighborhoods where everyone wants the same thing. After losing three consecutive bidding wars, they were tired and discouraged, and questioning whether they'd ever find their first home. But they were about to discover that persistence - paired with the right strategy, changes everything.",
+        "Through professional service and market expertise, we got our clients what they wanted which was a 4-bedroom bungalow below a million dollars. They didn't want to overpay, they didn't want bidding wars. <strong>PURCHASED JUST BELOW THE ASKING PRICE </strong> <strong> WITHOUT A BIDDING WAR</strong>"
       ]
     },
     "sidebar": {
