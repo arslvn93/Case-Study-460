@@ -25,8 +25,8 @@ const config = {
   },
   "header": {
     "tag": "CASE STUDY",
-    "title": "How First-Time Buyers Won Their Dream Character Home After Losing 3 Bidding Wars in Ottawa's Most Competitive Market",
-    "subheadline": "Secured a Rare 4-Bedroom Bungalow With Original Charm in a High-Demand Mature Neighborhood - Without Overpaying"
+    "title": "How First-Time Buyers Got Their Dream Home After Losing In 3 Bidding Wars in One Of Ottawa's Most Competitive Market Segments",
+    "subheadline": "They Secured An Original 4-Bedroom Bungalow in a Mature Neighborhood - Without Overpaying"
   },
   "mainBox": {
     "summary": {
