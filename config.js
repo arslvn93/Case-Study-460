@@ -30,7 +30,7 @@ const config = {
   },
   "mainBox": {
     "summary": {
-      "title": "How First-Time Buyers Won Their Dream Character Home After Losing 3 Bidding Wars in Ottawa's Most Competitive Market",
+      "title": "How First-Time Buyers Got Their Dream Home After Losing In 3 Bidding Wars in One Of Ottawa's Most Competitive Market Segments",
       "heroImage": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765903394255-GetMedia.jpeg"
       },
