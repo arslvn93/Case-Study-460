@@ -91,7 +91,7 @@ const config = {
       "paragraphs": [
         "They secured their dream home at the asking price. No overpaying, no bidding wars.",
         "<strong> NO OVERPAYING </strong>",
-        "<strong> NO BIDDING WARS</strong> (after losing 3 previous competitions)"
+        "<strong> NO BIDDING WARS</strong> "
       ],
       "listItems": []
     },
