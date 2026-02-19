@@ -78,7 +78,7 @@ const config = {
       "type": "standard",
       "title": "The Solution",
       "paragraphs": [
-        "After the third loss, instead of giving up, they doubled down on our partnership. We'd analyzed every failed offer together and discovered something crucial: they weren't losing by much - they were consistently in the running. The trust we'd built through those setbacks became our secret weapon, and we agreed on a new approach: lightning-fast response times and same-day action when the right property appeared."
+        "After the third loss, instead of giving up, they doubled down on our partnership. We'd analyzed every failed offer together and discovered something crucial: they weren't losing by much - they were consistently in the running. The trust we'd built through those setbacks became our secret weapon, and we agreed on a new approach: lightning fast response times and same day action when the right property appeared."
       ],
       "image": {
         "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/1765903405543-GetMedia (1).jpeg"
@@ -89,13 +89,9 @@ const config = {
       "type": "standard",
       "title": "The Results",
       "paragraphs": [
-        "Secured their dream 4-bedroom character bungalow at asking price ($989,000), no overpaying, no bidding war drama",
-        "Won in one of Ottawa's most competitive segments where older homes in mature neighborhoods typically spark multiple offers and escalate well above asking",
-        "Closed in just 50 days, giving them time to prepare for their new chapter",
-        "Landed in their ideal neighborhood, closer to family - perfect timing as they're now expecting their first child",
-        "<strong>PURCHASED AT 100% OF ASKING PRICE</strong>",
-        "<strong>WON WITHOUT A BIDDING WAR</strong> (after losing 3 previous competitions)",
-        "<strong>SEARCHED 20+ HOMES</strong> over multiple months before finding the perfect match"
+        "They secured their dream home at the asking price. No overpaying, no bidding wars.",
+        "<strong> NO OVERPAYING </strong>",
+        "<strong> NO BIDDING WARS</strong> (after losing 3 previous competitions)"
       ],
       "listItems": []
     },
