@@ -99,8 +99,8 @@ const config = {
       "type": "standard",
       "title": "Conclusion",
       "paragraphs": [
-        "Speed wins - even in the slower markets. Because the homes everyone wants always move fast, regardless of the market. Having your team and inspectors ready to mobilize within 72 hours isn't excessive; <strong> IT'S ESSENTIAL </strong> if you're serious about securing high-demand properties.",
-        "Losing offers isn't failure, it's data. If you're consistently close in bidding wars, you're not doing something wrong. You're building intelligence about what wins, and </strong> your breakthrough is closer than you think. </strong>",
+        "Speed wins - even during slower markets. Because the homes everyone wants always move fast, regardless of the market. Having your team and inspectors ready to mobilize within 72 hours isn't excessive; <strong> it's essential </strong> if you're serious about securing high-demand properties.",
+        "Losing offers isn't failure, it's data. If you're consistently close in bidding wars, you're not doing something wrong. You're building intelligence about what wins, and </strong> your breakthrough is closer than you think </strong>.",
         "Trust the process event through rejection. After 20+ viewings and 3 losses, quitting felt logical. But our clients won because they were ready and strategic when the perfect propert appeared."
       ],
       "listItems": []
