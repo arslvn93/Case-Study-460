@@ -67,7 +67,7 @@ const config = {
       "title": "The Strategy",
       "paragraphs": [
         "Market surveillance on steroids - we monitored new listings the moment they dropped, giving us a critical first-mover advantage in a market where hours matter.",
-        "Inspection readiness protocol, we had trusted inspectors on standby ready to view properties within 72 hours, regardless of whether competing offers existed, eliminating the usual delays that cost buyers their dream homes.",
+        "Inspection readiness protocol - we had trusted inspectors on standby ready to view properties within 72 hours, regardless of whether competing offers existed, eliminating the usual delays that cost buyers their dream homes.",
         "Speed as strategy - when the property they eventually purchased hit the market, we acted same-day, not next-week. ",
         "Pattern recognition from past offers, we'd learned exactly what price points and terms were winning in their target neighborhoods, so when it was time to strike, we knew precisely how to position them.",
         "Emotional intelligence through setbacks - after viewing 20+ homes and losing three offers, we maintained their confidence by showing them the data: they weren't far off, just waiting for the right moment."
