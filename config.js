@@ -36,7 +36,7 @@ const config = {
       },
       "subTitle": "Summary",
       "paragraphs": [
-        "Meet a young couple navigating one of Ottawa's toughest market segments, hunting for a character-filled bungalow in mature neighborhoods where everyone wants the same thing. After losing three consecutive bidding wars, they were tired and discouraged, and questioning whether they'd ever find their first home. But they were about to discover that persistence - paired with the right strategy, changes everything.",
+        "Our clients were navigating one of Ottawa's toughest market segments, hunting for a character-filled bungalow in mature neighborhoods where everyone wants the same thing. After losing three consecutive bidding wars, they were tired and discouraged, and questioning whether they'd ever find their first home. But they were about to discover that persistence - paired with the right strategy, changes everything.",
         "Through professional service and market expertise, we got our clients what they wanted which was a 4-bedroom bungalow below a million dollars. They didn't want to overpay, they didn't want bidding wars. <strong>PURCHASED JUST BELOW THE ASKING PRICE </strong> <strong> WITHOUT A BIDDING WAR</strong>"
       ]
     },
